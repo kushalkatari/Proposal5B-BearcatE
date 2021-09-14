@@ -1,8 +1,8 @@
 # featured-developers-3A
+### RFP of ths project
+Link to the RFP proposed by the client can be found [here](https://github.com/pramod096/Bearcat-Events/blob/main/RFP.md).
 
-[RFP](https://github.com/pramod096/Bearcat-Events/blob/main/RFP.md)
-
-Proposed stack for the project:   
+### Proposed stack for the project:   
 * Programming Languages :   
   1. Python
   1. JavaScript
