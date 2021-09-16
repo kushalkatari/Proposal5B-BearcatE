@@ -1,4 +1,8 @@
 
+### Introduction
+
+A progressive web application application that display an event conducted by various student organizations in Northwest Missouri State University, randomly every day.
+
 ### Technical Stack for the project:  
 * Programming Languages :   
   1. Python
