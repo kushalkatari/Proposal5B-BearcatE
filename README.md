@@ -1,4 +1,5 @@
-# featured-developers-3A
+#  Proposal5B-BearcatE
+
 ### RFP of ths project
 Link to the RFP proposed by the client can be found [here](https://github.com/pramod096/Bearcat-Events/blob/main/RFP.md).
 
