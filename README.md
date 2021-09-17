@@ -3,6 +3,8 @@
 ### RFP of ths project
 Link to the RFP proposed by the client can be found [here](https://github.com/pramod096/Bearcat-Events/blob/main/RFP.md).
 
+### Proposal
+Progressive web application development [proposal](https://github.com/kushalkatari/Proposal5B-BearcatE/blob/main/Proposal.md)
 ### Proposed stack for the project:   
 * Programming Languages :   
   1. Python
@@ -20,3 +22,5 @@ Link to the RFP proposed by the client can be found [here](https://github.com/pr
       * Heroku PostgreSQL
   5. Front-end page plan :
       * Server-side views
+
+### Proposal
