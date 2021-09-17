@@ -14,13 +14,15 @@ A progressive web application application that display an event conducted by var
 
 ### Budget
 
-
 ##### Human Resources
 Each Developer works for 10 hours a week on this project.
 |  Name               | Role | Hourly Pay | Cost per week | Contact                                                                                                              |   
 |---------                  |----------  | ------- | ------ |-------------------------------------------                                                                        |
 |[Akhil Mallepally](https://github.com/akhilmallepally)  |Back-end Developer  |$39 |  $39* 10 = $390 | [Akhil Mallepally](mailto:s542403@nwmissouri.edu)              |
-| [Kushal Katari](https://github.com/kushalkatari)  | Front-end Developer   |$39  | $39* 10 = $390 |   [Kushal Katari](mailto:s541904@nwmissouri.edu)  |
+| [Kushal Katari](https://github.com/kushalkatari)  | Front-end Developer   |$39  | $39* 10 = $390 |   [Kushal Katari](mailto:s541904@nwmissouri.edu)  |   
+
+* Web application will be hosted on Heroku for free.
+* Technically, to develop this progressive web application, we spend our major budget on Human Resources
 
 ### Technical Stack for the project:  
 * Programming Languages :   
