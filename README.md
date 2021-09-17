@@ -22,5 +22,3 @@ Progressive web application development [proposal](https://github.com/kushalkata
       * Heroku PostgreSQL
   5. Front-end page plan :
       * Server-side views
-
-### Proposal
