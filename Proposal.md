@@ -4,13 +4,19 @@
 A progressive web application application that display an event conducted by various student organizations in Northwest Missouri State University, randomly every day.
 
 ### Sprints
-
+  
 | Sprints   | Start Date | End Date | Task                                                                                                              |   
 |---------  |----------  | -------  |-------------------------------------------                                                                        |
 | Sprint 1  | 09/20/21   |10/01/21  | Gathering requirements and understanding the specifications proposed by client                                    |
-| Sprint 2  | 10/04/21   |10/15/21  | Improve the design specifications, if any required. And develop the front end using React and BootStrap           |
+| Sprint 2  | 10/04/21   |10/15/21  | Improve the design specifications, if any required. And develop the front end using NextJS and BootStrap. Take approval of client           |
 | Sprint 3  | 10/18/21   |11/01/21  | Connect the Database and using NodeJS build CRUD APIs which helps the admin to add, delete and update the content |
 | Sprint 4  | 11/04/21   |11/15/21  | Test and showcase to the Product owner. Deploy the web application, once everything is fine                       |
+| Sprint 5  | 09/20/21   |10/01/21  | Integrate the authetication pages with the backend                         |
+| Sprint 6  | 01/24/21   |02/01/21  | Add the forgot password link and also add an about page which displays the details of app and the support team to help if there is anything wrong with the site |
+| Sprint 7  | 02/04/21   |02/18/21  | Add new attributes which eases the admin to map the GeoLocations and upload short videos of events   |
+| Sprint 8  | 02/21/21   |03/04/21  | The events will be displayed priority wise with date as a sorting mechanism                       |
+| Sprint 9  | 03/21/21   |04/04/21  | Make a presentation after ensuring all the client requirements are met. Deliver the presentation and accept if any improvements suggested by Client. Do the necessary changes and deploy the final version|
+
 
 ### Budget
 
