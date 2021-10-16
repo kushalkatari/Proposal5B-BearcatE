@@ -47,3 +47,5 @@ Each Developer works for 10 hours a week on this project.
       * Heroku PostgreSQL
   5. Front-end page plan :
       * Server-side views
+
+#### APPROVED BY - PRAMOD REDDY GONEGARI
