@@ -13,7 +13,7 @@ Progressive web application development [proposal](https://github.com/kushalkata
   1. Frontend
       * CSS
       * BootStrap( For responsive design)
-      * React.js
+      * Next.js
   2. Backend
       * Django
   3. Hosting platform
