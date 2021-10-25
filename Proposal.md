@@ -48,4 +48,9 @@ Each Developer works for 10 hours a week on this project.
   5. Front-end page plan :
       * Server-side views
 
+### ER Diagram
+   
+![image](https://user-images.githubusercontent.com/35985697/138712278-d1cabc15-3688-4673-97d0-0abd8f5ed4a7.png)
+
+
 #### APPROVED BY - PRAMOD REDDY GONEGARI
