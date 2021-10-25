@@ -4,7 +4,11 @@
 Link to the RFP proposed by the client can be found [here](https://github.com/pramod096/Bearcat-Events/blob/main/RFP.md).
 
 ### Proposal
-Progressive web application development [proposal](https://github.com/kushalkatari/Proposal5B-BearcatE/blob/main/Proposal.md)
+Progressive web application development [proposal](https://github.com/kushalkatari/Proposal5B-BearcatE/blob/main/Proposal.md)   
+
+### Development repo
+Click [here](https://github.com/akhilmallepally/bearcat-events) to check out our development repo
+
 ### Proposed stack for the project:   
 * Programming Languages :   
   1. Python
