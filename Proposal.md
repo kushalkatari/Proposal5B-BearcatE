@@ -52,6 +52,10 @@ Each Developer works for 10 hours a week on this project.
    
 ![image](https://user-images.githubusercontent.com/35985697/138712278-d1cabc15-3688-4673-97d0-0abd8f5ed4a7.png)
 
+### Data set
+
+Please find the sample dataset used for the project [here](https://github.com/pramod096/Bearcat-Events/blob/main/Resources/SampleData.xlsx) 
+
 ### Roles :   
 -Major contributions of [Kushal](https://github.com/kushalkatari/) will be in designing the proposal and acts as a delegate representing the development team to discuss any modifications/ approvals from the client.   
 Tech role : Contributions towards frontend of the project  
