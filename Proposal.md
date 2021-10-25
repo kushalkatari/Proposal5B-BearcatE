@@ -52,5 +52,11 @@ Each Developer works for 10 hours a week on this project.
    
 ![image](https://user-images.githubusercontent.com/35985697/138712278-d1cabc15-3688-4673-97d0-0abd8f5ed4a7.png)
 
+### Roles :   
+-Major contributions of [Kushal](https://github.com/kushalkatari/) will be in designing the proposal and acts as a delegate representing the development team to discuss any modifications/ approvals from the client.   
+Tech role : Contributions towards frontend of the project  
+
+-[Akhil](https://github.com/akhilmallepally) will be working on both frontend and backend of the project. 
+
 
 #### APPROVED BY - PRAMOD REDDY GONEGARI
