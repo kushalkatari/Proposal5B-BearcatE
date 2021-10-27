@@ -3,6 +3,13 @@
 
 A progressive web application application that display an event conducted by various student organizations in Northwest Missouri State University, randomly every day.
 
+### Schedule
+
+For every two weeks, a sprint is calculated. Each step will be completed in a single Sprint.
+### Scope of work   
+
+Sprints are divided into 9 segments, with the start and completion dates as well as what we must do in each sprint is clearly stated.
+
 ### Sprints
   
 | Sprints   | Start Date | End Date | Task                                                                                                              |   
