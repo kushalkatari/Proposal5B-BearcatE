@@ -9,6 +9,11 @@ Progressive web application development [proposal](https://github.com/kushalkata
 ### Development repo
 Click [here](https://github.com/akhilmallepally/bearcat-events) to check out our development repo
 
+### Sketches and Screens
+
+Sketches used to develop the application design can be found [here](https://github.com/kushalkatari/Proposal5B-BearcatE/tree/main/images/screens)   
+Screenshots of the application pages are linked [here](https://github.com/kushalkatari/Proposal5B-BearcatE/tree/main/images/sketches)
+
 ### Proposed stack for the project:   
 * Programming Languages :   
   1. Python
