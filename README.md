@@ -31,3 +31,10 @@ Screenshots of the application pages are linked [here](https://github.com/kushal
       * Heroku PostgreSQL
   5. Front-end page plan :
       * Server-side views
+
+### References   
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project   
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository   
+https://www.mavenlink.com/resources/project-proposal   
+https://slite.com/learn/how-to-write-project-proposal   
+https://www.fool.com/the-blueprint/project-proposal/
