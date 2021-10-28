@@ -57,7 +57,12 @@ Each Developer works for 10 hours a week on this project.
 
 ### ER Diagram
    
-![image](https://user-images.githubusercontent.com/35985697/138712278-d1cabc15-3688-4673-97d0-0abd8f5ed4a7.png)
+![image](https://user-images.githubusercontent.com/35985697/138712278-d1cabc15-3688-4673-97d0-0abd8f5ed4a7.png)   
+
+### Sketches and Screens
+
+Sketches used to develop the application design can be found [here](https://github.com/kushalkatari/Proposal5B-BearcatE/tree/main/images/screens)   
+Screenshots of the application pages are linked [here](https://github.com/kushalkatari/Proposal5B-BearcatE/tree/main/images/sketches)
 
 ### Data set
 
@@ -65,9 +70,16 @@ Please find the sample dataset used for the project [here](https://github.com/pr
 
 ### Roles :   
 -Major contributions of [Kushal](https://github.com/kushalkatari/) will be in designing the proposal and acts as a delegate representing the development team to discuss any modifications/ approvals from the client.   
-Tech role : Contributions towards frontend of the project  
+Tech role : Contributions towards frontend of the project   
+-[Akhil](https://github.com/akhilmallepally) will be working on both frontend and backend of the project.   
 
--[Akhil](https://github.com/akhilmallepally) will be working on both frontend and backend of the project. 
+### References   
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project   
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository   
+https://www.mavenlink.com/resources/project-proposal   
+https://slite.com/learn/how-to-write-project-proposal   
+https://www.fool.com/the-blueprint/project-proposal/
+
 
 
 #### APPROVED BY - PRAMOD REDDY GONEGARI
