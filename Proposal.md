@@ -62,7 +62,6 @@ Each Developer works for 10 hours a week on this project.
 ### Sketches and Screens
 
 Sketches used to develop the application design can be found [here](https://github.com/kushalkatari/Proposal5B-BearcatE/tree/main/images/screens)   
-Screenshots of the application pages are linked [here](https://github.com/kushalkatari/Proposal5B-BearcatE/tree/main/images/sketches)
 
 ### Data set
 
@@ -81,5 +80,11 @@ https://slite.com/learn/how-to-write-project-proposal
 https://www.fool.com/the-blueprint/project-proposal/
 
 
-
+### UI pages Screenshot
+#### Home Page
+![Home page](https://github.com/kushalkatari/Proposal5B-BearcatE/blob/main/images/screens/home_page.png)   
+#### List Page   
+![List page](https://github.com/kushalkatari/Proposal5B-BearcatE/blob/main/images/screens/list_page.png)   
+#### Admin Page
+![Admin page](https://github.com/kushalkatari/Proposal5B-BearcatE/blob/main/images/screens/login_page.png)    
 #### APPROVED BY - PRAMOD REDDY GONEGARI
